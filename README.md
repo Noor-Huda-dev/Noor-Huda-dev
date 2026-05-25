@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Noor Huda 👋
 
-<!--
-**Noor-Huda-dev/Noor-Huda-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year BSCS student  
+💻 Django Developer & React.js Projects  
+🚀 Building web applications using Django and React.js  
+🤖 Final Year Project: AI AutoPrice Engine  
+🔐 Interested in Web Security & AI Integration  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+### Frontend
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Bootstrap
+
+### Backend
+- Django
+- Python
+- REST APIs
+- JWT Authentication
+
+### Database & Tools
+- SQLite
+- Git
+- GitHub
+
+---
+
+## 🌐 Profiles
+
+- LinkedIn: [https://linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/noor-huda-111413344/)
+- Fiverr: [https://fiverr.com/YOUR-FIVERR-USERNAME](https://www.fiverr.com/noorh092?public_mode=true)
+
+---
+
+## 📫 Contact
+
+📧 nh8746945@gmail.com
