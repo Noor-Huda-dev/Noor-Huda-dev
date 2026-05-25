@@ -32,8 +32,8 @@
 
 ## 🌐 Profiles
 
-- LinkedIn: [https://linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/noor-huda-111413344/)
-- Fiverr: [https://fiverr.com/YOUR-FIVERR-USERNAME](https://www.fiverr.com/noorh092?public_mode=true)
+- LinkedIn: [https://linkedin.com/in/noor-huda-111413344/](https://www.linkedin.com/in/noor-huda-111413344/)
+- Fiverr: [https://fiverr.com/noorh092?public_mode=true](https://www.fiverr.com/noorh092?public_mode=true)
 
 ---
 
