@@ -1,10 +1,14 @@
 # Hi, I'm Noor Huda 👋
 
-🎓 Graduate in BSCS
-💻 Django Developer & React.js Developer
-🚀 Building web applications using Django and React.js
-🤖 Final Year Project: AI AutoPrice Engine
-🔐 Interested in AI/ML
+🎓 Final-year BSCS student  
+
+💻 Django Developer & React.js Projects  
+
+🚀 Building web applications using Django and React.js  
+
+🤖 Final Year Project: AI AutoPrice Engine  
+
+🔐 Interested in Web Security & AI Integration  
 
 ---
 
