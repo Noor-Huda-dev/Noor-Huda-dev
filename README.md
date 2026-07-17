@@ -1,6 +1,6 @@
 # Hi, I'm Noor Huda 👋
 
-**🎓 Final-year BSCS student  
+🎓 Final-year BSCS student  
 
 💻 Full-Stack Developer — Django & React.js  
 
